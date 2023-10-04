@@ -1,4 +1,5 @@
 // Import required  hooks
+import { useState, useEffect } from "react";
 import { DogFact } from "./components/DogFact";
 
 export const App = () => {
